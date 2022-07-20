@@ -21,10 +21,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import models.User;
 
-/**
- *
- * @author Shubhpreet Kaur
- */
+
 public class AdminFilter implements Filter {
 
     @Override
